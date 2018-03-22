@@ -1,4 +1,4 @@
-# API Project: URL Shortener Microservice for freeCodeCamp
+# API Project: URL Shortener Microservice
 
 REST API for creating short urls
 
